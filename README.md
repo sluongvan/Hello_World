@@ -3,9 +3,14 @@ Hi my name is Sabrina Luongvan and I am a Business Analytics student at the Univ
 ---
 Project Title
 ---
-Descprition
+ font-style: monaco
+Description
+---
+How to Run Program
 ---
 Files Used
 ---
 Additional Documentation
+---
+Versioning
 ---
