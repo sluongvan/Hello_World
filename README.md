@@ -8,6 +8,7 @@ Hi my name is Sabrina Luongvan and I am a Business Analytics student at the Univ
 4. [Files Used]
 5. [Additional Documentation]
 6. [Versioning]
+
 ---
 # Project Title
 Hello World Sample
